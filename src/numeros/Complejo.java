@@ -1,8 +1,8 @@
 package numeros;
 
 public class Complejo {
-    public double real;
-    public double imaginario;
+    private double real;
+    private double imaginario;
 
     public Complejo() {
         this.real = 0;
