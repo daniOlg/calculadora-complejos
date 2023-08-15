@@ -49,3 +49,24 @@ valores de números reales que se usaran para cada parte del numero complejo (po
 ejemplo, para UnComplejo1, UnComplejo2, etc.) y después decidir qué operación realizar
 con ellos (sumar, restar, multiplicar o dividir) para que finalmente entregue el resultado
 correcto.
+
+### Operaciones:
+
+- Sumar dos números complejos:
+
+  `(a, b) + (c, d) = (a + c, b + d);`
+
+
+- Restar dos números complejos:
+
+  `(a, b) - (c, d) = (a - c, b - d);`
+
+
+- Multiplicar dos números complejos:
+
+  `(a, b) * (c, d) = (a*c – b*d, a*d + b*c)`
+
+
+- Dividir dos números complejos:
+
+  `(a, b) / (c, d) = ((a*c + b*d) / (c2 + d2) , (b*c – a*d) / (c2 + d2))`
