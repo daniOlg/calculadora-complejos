@@ -26,7 +26,7 @@
 - Comente mínimamente su código a través de uso de comentarios explicativos de lo más
   relevante o medular.
 - Agregue los comentarios que indiquen el por qué su código seria 100% Orientado a
-  Objetos. ( Recuerde: Claseinstancia(s)mensaje(s) ).
+  Objetos. (recuerde: `Clase` > `instancia(s)` > `mensaje(s)`).
 - A modo de ejemplo para los números complejos `UnComplejo1 = (1.0, 1.0)` y `UnComplejo2 = (2.0, 2.0)` su programa debe permitir operaciones tales como:
 
 ```
