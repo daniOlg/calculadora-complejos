@@ -4,9 +4,9 @@
 ## Resultados:
 Suma             |  Resta
 :-:|:-:
-![Suma](preview/preview-2.png?raw=true "Suma")  |  ![Resta](preview/preview-3.png?raw=true "Resta")
+![Suma](preview/preview-1.png?raw=true "Suma")  |  ![Resta](preview/preview-2.png?raw=true "Resta")
 Multiplicacion | Division
-![Multiplicacion](preview/preview-4.png?raw=true "Multiplicacion")  |  ![Division](preview/preview-5.png?raw=true "Division")
+![Multiplicacion](preview/preview-3.png?raw=true "Multiplicacion")  |  ![Division](preview/preview-4.png?raw=true "Division")
 
 
 
