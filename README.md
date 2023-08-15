@@ -1,6 +1,14 @@
 ## Calculadora Complejos
 #### 📚 Homework for university
 
+## Resultados:
+Suma             |  Resta
+:-:|:-:
+![Suma](preview/preview-2.png?raw=true "Suma")  |  ![Resta](preview/preview-3.png?raw=true "Resta")
+Multiplicacion | Division
+![Multiplicacion](preview/preview-4.png?raw=true "Multiplicacion")  |  ![Division](preview/preview-5.png?raw=true "Division")
+
+
 
 ## Requerimientos:
 #### Implemente su código acorde a las directrices siguientes:
